@@ -1,4 +1,4 @@
-var bot = require("discord-music-bot");
+var bot = require("code");
 
 var serverName = "cjdjejejek";
 var textChannelName = "general";
